@@ -1,0 +1,18 @@
+{
+    "editor.defaultFormatter": "mngrm3a.vscode-google-java-formatter",
+    "[java]": {
+        "editor.defaultFormatter": "mngrm3a.vscode-google-java-formatter"
+    }
+    ,
+    "java.project.referencedLibraries": [
+        "biuoop-1.4.jar"
+    ],
+    "cSpell.words": [
+        "Biuoop",
+        "Collidable",
+        "collidables",
+        "javac"
+    ]
+,
+
+}

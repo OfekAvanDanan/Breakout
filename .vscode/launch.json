@@ -1,0 +1,47 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}",
+            "stopOnEntry": true
+        },
+        {
+            "type": "java",
+            "name": "AbstractArtDrawing",
+            "request": "launch",
+            "mainClass": "AbstractArtDrawing",
+            "projectName": "OOP_lab_7ce0aa40",
+            "stopOnEntry": true
+        },
+        {
+            "type": "java",
+            "name": "BouncingBallAnimation",
+            "request": "launch",
+            "mainClass": "BouncingBallAnimation",
+            "projectName": "OOP_lab_7ce0aa40",
+            "stopOnEntry": true
+        },
+        {
+            "type": "java",
+            "name": "MultipleBouncingBallsAnimation",
+            "request": "launch",
+            "mainClass": "MultipleBouncingBallsAnimation",
+            "projectName": "OOP_lab_7ce0aa40",
+            "stopOnEntry": true
+        },
+        {
+            "type": "java",
+            "name": "MultipleFramesBouncingBallsAnimation",
+            "request": "launch",
+            "mainClass": "MultipleFramesBouncingBallsAnimation",
+            "projectName": "OOP_lab_7ce0aa40",
+            "stopOnEntry": true
+        }
+    ]
+}
