@@ -12,6 +12,8 @@ This is a simple paddle game built using a basic GUI framework. The game is insp
 - If all the balls fall below the paddle, you lose.
 - As the game progresses, you can aim for a higher score by breaking more bricks.
 
+[text](readme.md)
+
 ## How to Run
 
 1. Make sure you have Java installed on your system.
